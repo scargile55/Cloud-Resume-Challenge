@@ -1,6 +1,6 @@
 body {
     font-family: Cambria;
-    background-color: #eaedf0;
+    background-color: #e28534;
     /* background-color: #ddd; */
     font-size: 11pt;
   }
@@ -11,7 +11,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     /* margin-bottom: 1em; */
-    background-color: white;
+    background-color: rgb(38, 169, 216);
     padding: 3em;
     /* box-shadow: 0px 0px 0.5em; */
     box-shadow: 0px 8px 56px rgb(15 80 100 / 16%)
